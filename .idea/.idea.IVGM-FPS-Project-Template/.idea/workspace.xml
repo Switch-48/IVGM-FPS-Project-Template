@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b0fe939-8ca6-4388-9647-88d1f4f6f5c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Art.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Art/placeholder.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Art/placeholder.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Audio/placeholder.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Audio/placeholder.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/FirstnameLastname_Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/FirstnameLastname_Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/FirstnameLastname_Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/FirstnameLastname_Scene/placeholder.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/FirstnameLastname_Scene/placeholder.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Materials/placeholder.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Materials/placeholder.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Prefabs/placeholder.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Prefabs/placeholder.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Scripts/placeholder.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Student Folders/FirstnameLastname_Assets/Scripts/placeholder.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FPS/Prefabs/Enemies/Enemy_HoverBot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FPS/Prefabs/Enemies/Enemy_HoverBot.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FPS/Scripts/DamageArea.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FPS/Scripts/DamageArea.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FPS/Scripts/ProjectileStandard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FPS/Scripts/ProjectileStandard.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/02_Student Folders/MaxvanSteenis_Assets/Art/Shaders/Crystal.shader" />
+        <option value="$PROJECT_DIR$/Assets/FPS/Scripts/ProjectileStandard.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPS/Scripts/DamageArea.cs" />
+        <option value="$PROJECT_DIR$/Assets/02_Student Folders/MaxvanSteenis_Assets/Scripts/CrystalLight.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iXLv33Nzdj5remwpcZpzV98CMv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b0fe939-8ca6-4388-9647-88d1f4f6f5c4" name="Default Changelist" comment="" />
+      <created>1602049220388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602049220388</updated>
+      <workItem from="1602049230761" duration="305000" />
+      <workItem from="1602059747999" duration="3010000" />
+      <workItem from="1602355285354" duration="28000" />
+      <workItem from="1602355851408" duration="421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602062040190">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602062040190" />
+  </component>
+</project>
